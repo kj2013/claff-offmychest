@@ -43,28 +43,29 @@ ABSTRACT SUBMISSION DEADLINE: October 20, 2019
 
 **Labeled training set** (To be released on Sep 18): About 10,000 labeled sentences, extracted from the top comments posted to "POSTS".
 
-**Test set:** About 3,000 unlabeled sentences, extracted from the top comments and posted to "POSTS".
+**Test set:** About 3,000 unlabeled sentences, extracted from the top comments posted to "POSTS".
 
 
 ## Label descriptions
 
 Check out the annotation instructions under /docs/.
 
-1. *Disclosure* is further categorized into informational or emotional disclosure.
+1. *Disclosure* is further categorized into informational and emotional disclosure.
 
-2. *Supportiveness* is further categorized into general, informational and emotional supportiveness.
+2. *Supportiveness* is further categorized into general, informational, and emotional supportiveness.
 
-## Check out the FAQ!
-
-This package contains a release of training and test data to aid in modeling affect and emotion from conversations, focusing on the problem of how speakers use emotions to react to a situation and to each other. We introduce the OffMyChest conversation dataset, and invite submissions for the Computational Linguistics Affect Understanding (CL-Aff) Shared Task on Affect in Conversations. 
+## Check out the FAQ! (TO BE RELEASED)
 
 Please "WATCH" this repository! We may be pushing more updates in the following weeks.
 After the Shared Task, we also plan to further enrich this data, with more annotations, meta-features and trained classifiers to aid with downstream applications.
 
 If you use the data and publish, please let us know and cite our CL-Aff overview paper:
 
-@inproceedings{TBA
+@inproceedings
+
+{TBA
 }
+
 
 If you have any questions regarding the workshop scope or need further information, please do not hesitate to send an e-mail: 
 
