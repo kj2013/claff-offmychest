@@ -3,7 +3,9 @@ Corpus and annotations for the CL-Aff Shared Task - Get it #OffMyChest - from Na
 
 A part of the AffCon Workshop @ AAAI 2019 for Modeling Affect-in-Response
 
-# DATA TO BE RELEASED ON SEPTEMBER 18, 2019
+There is a growing interest in understanding how humans initiate and hold conversations. The affective understanding of conversations focuses on the problem of how speakers use emotions to react to a situation and to each other. We introduce the OffMyChest conversation dataset, and invite submissions for the Computational Linguistics Affect Understanding (CL-Aff) Shared Task on modeling interactive affective responses. 
+
+# LABELED TRAINING DATA TO BE RELEASED ON SEPTEMBER 18, 2019
 
 Organizers:
 
@@ -21,6 +23,15 @@ Check out the Workshop and Shared Task website: https://sites.google.com/view/af
 
 ABSTRACT SUBMISSION DEADLINE: October 20, 2019
 
+
+## The Tasks
+
+**GIVEN**: Sentences sampled out of the casual and confessional conversations among Redittors on the /r/CasualConversations and the /r/OffMyChest community, labeled for their informational, social and affective characteristics.
+
+**TASK 1** : Semi-supervised learning task: Predict labels for Disclosure and Supportiveness for sentences based on a small labeled and large unlabeled training data.    
+
+**TASK 2**: Unsupervised task: Propose new characterizations and insights to model conversation dynamics.
+
 ## Corpus details
 
 **Unlabeled training set** (Already released!):
@@ -34,6 +45,14 @@ ABSTRACT SUBMISSION DEADLINE: October 20, 2019
 
 **Test set:** About 3,000 unlabeled sentences, extracted from the top comments and posted to "POSTS".
 
+
+## Label descriptions
+
+Check out the annotation instructions under /docs/.
+
+1. *Disclosure* is further categorized into informational or emotional disclosure.
+
+2. *Supportiveness* is further categorized into general, informational and emotional supportiveness.
 
 ## Check out the FAQ!
 
