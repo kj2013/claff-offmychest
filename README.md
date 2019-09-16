@@ -3,11 +3,18 @@ Corpus and annotations for the CL-Aff Shared Task - Get it #OffMyChest - from Na
 
 A part of the AffCon Workshop @ AAAI 2019 for Modeling Affect-in-Response
 
+# DATA TO BE RELEASED ON SEPTEMBER 18, 2019
+
 Organizers:
+
 Kokil Jaidka, Nanyang Technological University
+
 Niyati Chhaya , Big Data Experience Lab, Adobe Research
+
 Jiahui Lu, Nanyang Technological University
+
 Iknoor Singh, Panjab University
+
 Lyle Ungar, University of Pennsylvania
 
 Check out the Workshop and Shared Task website: https://sites.google.com/view/affcon2020/home
