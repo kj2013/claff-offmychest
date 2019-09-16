@@ -1,0 +1,80 @@
+Annotation instructions for Supportiveness
+Summary: 
+These are sentences taken from people’s comments on Reddit. Please classify them according to what the author is saying, and whether the author is supportive to their conversational partner in the comment.
+
+Detailed Instructions
+Overview
+In this job, you will be presented with a comment made on Reddit, a popular discussion forum worldwide. The topic of the discussion is a casual conversation or a confession.
+Review the text of the comment and help us by answering a few yes/no questions about it. Each HIT takes about 30 seconds.
+________________________________________
+Steps
+•	Read the comment.
+•	Determine which categories best describe the comment. 
+•	When two answers are possible, use your judgment to choose the stronger answer.
+________________________________________
+Rules & Tips
+•	SUPPORTIVE Description: 
+o	YES: This comment is offering support to someone, either through sympathy, encouragement, or advice. ("Good luck, this shit is tough";"Good luck! but I'm afraid I have no advice";"Hey you tried your best"; "Have you tried family therapy?")
+o	NO: The sentence does not offer any support. ("Thank you for your time."; "Badass grandpa."; I'm now 65 years old"; "I've worked with kids with ODD and autism"; "I live in West Philly.")  
+o	OTHER: I can't classify this!
+
+•	TYPE OF SUPPORT Description:  
+o	GENERAL SUPPORT: The comment is offering general support through quotes and catch phrases. ("What's the worst that could happen?"; "You only die once."; "All's well that ends well." )
+o	INFORMATIONAL SUPPORT: The comment is offering specific information, practical advice, or suggesting a course of action. ("I wouldnt..";"You shouldn't..";"You can't..".; "Why didn't you try this?";"Please talk to a professional.")  
+o	EMOTIONAL SUPPORT: The comment is offering sympathy, caring or encouragement. ("Good luck, this shit is tough"; "Good luck! but I'm afraid I have no advice"; "You sound like a great person"; "I'm so sorry."; "That's a great story.")
+________________________________________
+ 
+Examples
+SUPPORTIVE = TRUE
+In these examples, the comment is supportive.	•	I’m so sorry.
+•	I feel ya bro
+•	I can empathize with a lot of the emotions you are going through.
+•	I would try marriage counselling
+•	I hope you are lawyered up before emailing him and his parents.
+
+SUPPORTIVE = EMOTIONAL
+In these examples, the comment is providing emotional support.	•	I’m so sorry.
+•	I appreciate that.
+•	Good luck.
+•	I feel ya bro
+•	I can empathize with a lot of the emotions you are going through.
+•	You sound like a great person
+SUPPORTIVE = INFORMATIONAL
+In these examples, the comment is providing informational support or advice.	•	I would try marriage counselling
+•	I hope you are lawyered up before emailing him and his parents.
+•	I highly suggest you join a forum and support group for people who have the same condition
+•	Why did you always refuse to change?
+•	In actuality, I wouldn't worry at all if he wasn't in the picture.
+
+SUPPORTIVE = FALSE
+In these examples, the comment is not supportive.	•	Thank you for your time.
+•	My wife caught me giggling, and so I showed it to her.
+•	Anyone else have something good happen for them today?
+•	You don't deserve me.
+•	Is that really a bad thing?
+•	I hope you are lawyered up before emailing him and his parents.
+•	
+	
+________________________________________
+ 
+Questionnaire
+${full_text}
+Is this comment SUPPORTIVE?
+  YES: This comment is offering support to someone, either through sympathy, encouragement, or advice. ("Good luck, this shit is tough";"Good luck! but I'm afraid I have no advice";"Hey you tried your best"; "Have you tried family therapy?")
+  NO: This comment does not offer any support.. ("Thank you for your time."; "This is so sweet."; "Badass grandpa."; I'm now 65 years old"; "I've worked with kids with ODD and autism"; "I live in West Philly.")
+What is the TYPE OF SUPPORT in this comment?
+${full_text}
+GENERAL SUPPORT: The comment is offering general support through quotes and catch phrases. ("What's the worst that could happen?"; "You only die once."; "All's well that ends well." )
+ Yes
+ No
+${full_text}
+INFORMATIONAL SUPPORT: The sentence is offering information, advice, or suggesting a course of action. ("I wouldnt..";"You shouldn't..";"You can't..". "Why didn't you try this?";"Please talk to a professional.")
+ Yes
+ No
+${full_text}
+EMOTIONAL SUPPORT:The sentence is offering sympathy, caring or encouragement. ("Good luck, this shit is tough"; "Good luck! but I'm afraid I have no advice"; "You sound like a great person"; "I'm so sorry."; "That's a great story.")
+ Yes
+ No
+________________________________________
+
+

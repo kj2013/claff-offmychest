@@ -1,0 +1,95 @@
+Annotation instructions for Disclosure
+
+Summary: 
+These are sentences taken from people’s comments on Reddit. Please classify them according to how much and what the author is disclosing about themselves in the comment.
+
+Detailed Instructions
+Overview
+In this job, you will be presented with a comment made on Reddit, a popular discussion forum worldwide. The topic of the discussion is a casual conversation or a confession.
+Review the text of the comment and help us by answering a few yes/no questions about it. Each HIT takes about 30 seconds.
+________________________________________
+Steps
+•	Read the comment.
+•	Determine which categories best describe the comment. 
+•	When two answers are possible, use your judgment to choose the stronger answer.
+________________________________________
+Rules & Tips
+•	PERSONAL Description: 
+o	YES: This comment is a part of a personal story, e.g., a life experience, an achievement, a problem, etc.
+o	NO: This comment is not a part of a personal story.
+
+•	SHARING INFORMATION Description: 
+o	NO PERSONAL INFORMATION: This comment contains general or routine information about the author without personal references. ("It's a book by Hemingway"; "Have you tried family therapy?"; "It's a terrible day for rain.")
+o	A LITTLE PERSONAL INFORMATION: This comment contains information about the authors age, what their job is, or where they live. They might be describing their family members, interests or hobbies. ("I'm now 65 years old"; "I've worked with kids with ODD and autism"; "I live in West Philly.")  
+o	A LOT OF PERSONAL INFORMATION: This comment contains personal information that could expose the author or the people mentioned, such as their diseases, physical appearance or behavior. ("Sounds like our bipolar kid."; "She posted a screenshot of his porn history (gross)"; "My mum told me that she was sexually abused as a kid.")
+
+•	SHARING FEELINGS Description: 
+o	NO PERSONAL FEELINGS: This comment does not mention the author's feelings about anything. ("It's a book by Hemingway"; "Are you ok?"; "She was really mad at me.")
+o	A LITTLE PERSONAL FEELINGS: This comment mentions the author's mild positive or negative feelings, such as appreciation, amusement, ordinary concern, or minor frustration. ("My only concern was for my son."; "Fuck me that is beautiful."; "Thanks for sharing the story.")  
+o	A LOT OF PERSONAL FEELINGS: This comment contains the author's deep positive or negative feelings or tears. Deep positive feelings can be excitement, happiness, or being overwhelmed. Deep negative feelings can be humiliation, anger, sorry, agony, anxiety, depression, fears, or pain. ("My heart melted reading this xx"; "I'm not crying, you're crying!"; "I'm literally too jealous"; "My heart is breaking for you.")
+
+________________________________________
+ 
+Examples
+PERSONAL = TRUE
+In these examples, the comment is a part of a personal story.	•	This sounds a lot like me and my stepdad!
+•	The family friend that took advantage of me When I was 14
+Sharing information = A LOT OF PERSONAL INFORMATION
+In these examples, the comment has a lot of personal information about the author.	•	Sounds like our bipolar kid.
+•	She posted a screenshot of his porn history (gross)
+•	My mum told me that she was sexually abused as a kid.
+Sharing feelings = A LOT OF PERSONAL FEELINGS
+In these examples, the comment contains deep positive or negative feelings experienced by the author.	•	My heart melted reading this xx
+•	I'm not crying, you're crying!
+•	I'm literally too jealous.
+•	My heart is breaking for you.
+PERSONAL = FALSE
+In these examples, the comment is not a part of a personal story.	•	Some asshole is cutting onions around me right now.
+•	It's hard to be a woman and read the news these days.
+•	You like your uncle, right?.
+•	Smart gramps knew how to avoid contesting.
+•	Divorced him?
+•	Probably my thought that would net her something.
+•	This is such a sweet post.
+Sharing information = NO PERSONAL INFORMATION
+In these examples, the comment has no personal information about the author.	•	It's a book by Hemingway
+•	Have you tried family therapy?
+•	It's a terrible day for rain.
+•	Are you ok?
+Sharing feelings = NO PERSONAL FEELINGS
+In these examples, the comment contains no feelings experienced by the author.	•	It's a book by Hemingway
+•	Have you tried family therapy?
+•	Are you ok?
+•	She was really mad at me.
+	________________________________________________________________________________
+
+________________________________________
+ 
+Questionnaire
+
+${full_text}
+Is this comment a part of a PERSONAL STORY?
+  YES: This comment is a part of a personal story, e.g., a life experience, an achievement, a problem, etc.
+  NO: This comment is not a part of a personal story.
+
+If applicable, WHAT KIND of a personal story?
+${full_text}
+Does this comment describe an ACHIEVEMENT?
+  YES: This comment describes a personal story about achievements or overcoming challenges.
+  NO: It does not.
+${full_text}
+Does this comment describe a PROBLEM?
+  YES: This comment describes a personal story about problems and issues.
+  NO: It does not.
+${full_text}
+Is this comment SHARING PERSONAL INFORMATION?
+  NO: This comment contains general or routine information without personal references. ("It's a book by Hemingway"; "Have you tried family therapy?"; "It's a terrible day for rain.").
+  A LITTLE: This comment contains information about the authors age, what their job is, or where they live. They might be describing their family members, interests or hobbies. ("I'm now 65 years old"; "I've worked with kids with ODD and autism"; "I live in West Philly.")
+  A LOT: This comment contains personal information that could expose the author or the people mentioned, such as their diseases, physical appearance or behavior. ("Sounds like our bipolar kid."; "She posted a screenshot of his porn history (gross)"; "My mum told me that she was sexually abused as a kid.")
+${full_text}
+Is this comment SHARING PERSONAL FEELINGS?
+  NO: This comment does not mention the author's feelings about anything. ("It's a book by Hemingway"; "Are you ok?"; "She was really mad at me.")
+  A LITTLE: This comment mentions the author's mild positive or negative feelings. ("My only concern was for my son."; "Fuck me that is beautiful."; "Thanks for sharing the story.")
+  A LOT: This comment contains deep positive or negative feelings or tears. ("My heart melted reading this xx"; "I'm not crying, you're crying!"; "I'm literally too jealous"; "My heart is breaking for you.")
+
+________________________________________
