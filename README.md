@@ -21,6 +21,20 @@ Check out the Workshop and Shared Task website: https://sites.google.com/view/af
 
 ABSTRACT SUBMISSION DEADLINE: October 20, 2019
 
+## Corpus details
+
+**Unlabeled training set** (Already released!):
+
+**UNLABELED POSTS:** The top posts in 2018 in /r/CasualConversations and /r/OffMyChest mentionining any of the keyword terms. Posts that are parents of comments in the training and test sets are separately identified.
+
+**UNLABELED COMMENTS:** Over 420k sentences extracted from 130k comments posted to "POSTS"
+
+
+**Labeled training set** (To be released on Sep 18): About 10,000 labeled sentences, extracted from the top comments posted to "POSTS".
+
+**Test set:** About 3,000 unlabeled sentences, extracted from the top comments and posted to "POSTS".
+
+
 ## Check out the FAQ!
 
 This package contains a release of training and test data to aid in modeling affect and emotion from conversations, focusing on the problem of how speakers use emotions to react to a situation and to each other. We introduce the OffMyChest conversation dataset, and invite submissions for the Computational Linguistics Affect Understanding (CL-Aff) Shared Task on Affect in Conversations. 
