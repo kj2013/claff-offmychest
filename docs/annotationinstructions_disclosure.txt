@@ -14,9 +14,6 @@ Steps
 •	When two answers are possible, use your judgment to choose the stronger answer.
 ________________________________________
 Rules & Tips
-•	PERSONAL Description: 
-o	YES: This comment is a part of a personal story, e.g., a life experience, an achievement, a problem, etc.
-o	NO: This comment is not a part of a personal story.
 
 •	SHARING INFORMATION Description: 
 o	NO PERSONAL INFORMATION: This comment contains general or routine information about the author without personal references. ("It's a book by Hemingway"; "Have you tried family therapy?"; "It's a terrible day for rain.")
@@ -31,26 +28,6 @@ o	A LOT OF PERSONAL FEELINGS: This comment contains the author's deep positive o
 ________________________________________
  
 Examples
-PERSONAL = TRUE
-In these examples, the comment is a part of a personal story.	•	This sounds a lot like me and my stepdad!
-•	The family friend that took advantage of me When I was 14
-Sharing information = A LOT OF PERSONAL INFORMATION
-In these examples, the comment has a lot of personal information about the author.	•	Sounds like our bipolar kid.
-•	She posted a screenshot of his porn history (gross)
-•	My mum told me that she was sexually abused as a kid.
-Sharing feelings = A LOT OF PERSONAL FEELINGS
-In these examples, the comment contains deep positive or negative feelings experienced by the author.	•	My heart melted reading this xx
-•	I'm not crying, you're crying!
-•	I'm literally too jealous.
-•	My heart is breaking for you.
-PERSONAL = FALSE
-In these examples, the comment is not a part of a personal story.	•	Some asshole is cutting onions around me right now.
-•	It's hard to be a woman and read the news these days.
-•	You like your uncle, right?.
-•	Smart gramps knew how to avoid contesting.
-•	Divorced him?
-•	Probably my thought that would net her something.
-•	This is such a sweet post.
 Sharing information = NO PERSONAL INFORMATION
 In these examples, the comment has no personal information about the author.	•	It's a book by Hemingway
 •	Have you tried family therapy?
@@ -67,21 +44,6 @@ ________________________________________
  
 Questionnaire
 
-${full_text}
-Is this comment a part of a PERSONAL STORY?
-  YES: This comment is a part of a personal story, e.g., a life experience, an achievement, a problem, etc.
-  NO: This comment is not a part of a personal story.
-
-If applicable, WHAT KIND of a personal story?
-${full_text}
-Does this comment describe an ACHIEVEMENT?
-  YES: This comment describes a personal story about achievements or overcoming challenges.
-  NO: It does not.
-${full_text}
-Does this comment describe a PROBLEM?
-  YES: This comment describes a personal story about problems and issues.
-  NO: It does not.
-${full_text}
 Is this comment SHARING PERSONAL INFORMATION?
   NO: This comment contains general or routine information without personal references. ("It's a book by Hemingway"; "Have you tried family therapy?"; "It's a terrible day for rain.").
   A LITTLE: This comment contains information about the authors age, what their job is, or where they live. They might be describing their family members, interests or hobbies. ("I'm now 65 years old"; "I've worked with kids with ODD and autism"; "I live in West Philly.")
