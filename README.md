@@ -5,7 +5,7 @@ A part of the AffCon Workshop @ AAAI 2019 for Modeling Affect-in-Response
 
 There is a growing interest in understanding how humans initiate and hold conversations. The affective understanding of conversations focuses on the problem of how speakers use emotions to react to a situation and to each other. We introduce the OffMyChest conversation dataset, and invite submissions for the Computational Linguistics Affect Understanding (CL-Aff) Shared Task on modeling interactive affective responses. 
 
-# LABELED TRAINING DATA TO BE RELEASED ON SEPTEMBER 18, 2019
+# LABELED TRAINING DATA IS UP! Please register for the task at <a>https://easychair.org/conferences/?conf=affcon2020</a>
 
 Organizers:
 
@@ -19,14 +19,14 @@ Iknoor Singh, Panjab University
 
 Lyle Ungar, University of Pennsylvania
 
-Check out the Workshop and Shared Task website: https://sites.google.com/view/affcon2020/home
+Check out the Workshop and Shared Task website: <a>https://sites.google.com/view/affcon2020/home</a>
 
 ABSTRACT SUBMISSION DEADLINE: October 20, 2019
 
 
 ## The Tasks
 
-**GIVEN**: Sentences sampled out of the casual and confessional conversations among Redittors on the /r/CasualConversations and the /r/OffMyChest community, labeled for their informational, social and affective characteristics.
+**GIVEN**: Sentences sampled out of the casual and confessional conversations among Redittors on the /r/CasualConversations and the /r/OffMyChest community, labeled for their disclosure and supportive characteristics.
 
 **TASK 1** : Semi-supervised learning task: Predict labels for Disclosure and Supportiveness for sentences based on a small labeled and large unlabeled training data.    
 
@@ -41,9 +41,9 @@ ABSTRACT SUBMISSION DEADLINE: October 20, 2019
 **UNLABELED COMMENTS:** Over 420k sentences extracted from 130k comments posted to "POSTS"
 
 
-**Labeled training set** (To be released on Sep 18): About 10,000 labeled sentences, extracted from the top comments posted to "POSTS".
+**Labeled training set** : 12,860 labeled sentences, extracted from the top comments posted to "POSTS".
 
-**Test set:** About 3,000 unlabeled sentences, extracted from the top comments posted to "POSTS".
+**Test set:** 5,000 unlabeled sentences, extracted from the top comments posted to "POSTS".
 
 
 ## Label descriptions
