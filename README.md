@@ -54,6 +54,64 @@ Check out the annotation instructions under /docs/.
 
 2. *Supportiveness* is further categorized into general, informational, and emotional supportiveness.
 
+
+
+## Git Contents
+
+This is the open repository for Affect Understanding in Text and Annotations contributed to the public through the collaboration between Nanyang Technological University, the University of Pennsylvania, and Adobe Research India. It comprises comments (some labeled) and the parent posts (all unlabeled) from the /r/CasualConversations and the /r/OffMyChest communities  
+
+
+    ./README.md
+ 
+This file.
+
+    ./FAQ2020
+	
+To be added, will have frequently asked questions including updates to the corpus.
+
+    ./docs/corpusconstruction.txt
+ 
+To be added, a readme detailing the rules and steps followed to create the document
+corpus.
+  
+
+    ./docs/annotation_*.txt
+  
+Rules followed for the annotation.
+
+
+    ./data/unlabeled data
+  
+Directory containing unlabeled data pertaining to the training and the test sets.
+
+
+    ./data/training data
+  
+Directory containing the training set.
+
+    ./data/test data
+
+Directory containing the test set.
+
+
+
+## Organisers' Contacts
+
+The system outputs from the test set should be submitted to the task organizers, for the collation of the final results to be presented at the workshop.
+
+If you have any questions regarding the workshop scope or need further information, please do not hesitate to send an e-mail: 
+
+Niyati, nchhaya [AT] adobe.com
+
+Kokil, jaidka [AT] sas.upenn.edu 
+
+Jiahui, jhlu [AT] ntu.edu.sg
+
+
+
+
+
+
 ## Check out the FAQ! (TO BE RELEASED)
 
 Please "WATCH" this repository! We may be pushing more updates in the following weeks.
@@ -66,13 +124,5 @@ If you use the data and publish, please let us know and cite our CL-Aff overview
 {TBA
 }
 
-
-If you have any questions regarding the workshop scope or need further information, please do not hesitate to send an e-mail: 
-
-Niyati, nchhaya [AT] adobe.com
-
-Kokil, jaidka [AT] sas.upenn.edu 
-
-Jiahui, jhlu [AT] ntu.edu.sg
 
 Thank you!
