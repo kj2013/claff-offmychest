@@ -65,9 +65,26 @@ This is the open repository for Affect Understanding in Text and Annotations con
  
 This file.
 
+
     ./FAQ2020
 	
 To be added, will have frequently asked questions including updates to the corpus.
+
+
+    ./docs/labeldescriptions.txt
+  
+Definitions for each of the labels
+
+
+    ./scripts/*
+  
+Python script used to collect data
+
+
+    wife, girlfriend, gf, husband, boyfriend, bf
+  
+The search keywords used to collect data from the API
+
 
     ./docs/corpusconstruction.txt
  
@@ -88,6 +105,7 @@ Directory containing unlabeled data pertaining to the training and the test sets
     ./data/training data
   
 Directory containing the training set.
+
 
     ./data/test data
 
@@ -124,5 +142,9 @@ If you use the data and publish, please let us know and cite our CL-Aff overview
 {TBA
 }
 
+
+## Acknowledgement
+
+We're grateful to the Pushshift API and Jason Baumgartner for the code that made this task possible. Thank you!
 
 Thank you!
