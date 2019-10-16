@@ -1,3 +1,6 @@
+**UPDATE: LABELED TRAINING AND TEST DATA IS UP! Please register for the task at <a>https://easychair.org/conferences/?conf=affcon2020</a>**
+
+
 # CL-Aff Shared Task: Get it #OffMyChest
 Corpus and annotations for the CL-Aff Shared Task - Get it #OffMyChest - from Nanyang Technological University Singapore
 
@@ -6,23 +9,6 @@ A part of the AffCon Workshop @ AAAI 2019 for Modeling Affect-in-Response
 There is a growing interest in understanding how humans initiate and hold conversations. The affective understanding of conversations focuses on the problem of how speakers use emotions to react to a situation and to each other. We introduce the OffMyChest conversation dataset, and invite submissions for the Computational Linguistics Affect Understanding (CL-Aff) Shared Task on modeling interactive affective responses. 
 
 **UPDATED ABSTRACT SUBMISSION DEADLINE: November 7, 2019**
-
-**LABELED TRAINING DATA IS UP! Please register for the task at <a>https://easychair.org/conferences/?conf=affcon2020</a>**
-
-Organizers:
-
-Kokil Jaidka, Nanyang Technological University
-
-Niyati Chhaya , Big Data Experience Lab, Adobe Research
-
-Jiahui Lu, Nanyang Technological University
-
-Iknoor Singh, Panjab University
-
-Lyle Ungar, University of Pennsylvania
-
-Check out the Workshop and Shared Task website: <a>https://sites.google.com/view/affcon2020/home</a>
-
 
 
 
@@ -34,9 +20,9 @@ Check out the Workshop and Shared Task website: <a>https://sites.google.com/view
 
 **TASK 2**: Unsupervised task: Propose new characterizations and insights to model conversation dynamics.
 
-## Corpus details
+## Corpus details (All released!)
 
-**Unlabeled training set** (Already released!):
+**Unlabeled training set** :
 
 **UNLABELED POSTS:** The top posts in 2018 in /r/CasualConversations and /r/OffMyChest mentionining any of the keyword terms. Posts that are parents of comments in the training and test sets are separately identified.
 
@@ -149,4 +135,20 @@ If you use the data and publish, please let us know and cite our CL-Aff overview
 
 We're grateful to the Pushshift API and Jason Baumgartner for the code that made this task possible. Thank you!
 
-Thank you!
+
+## Organizers
+
+Kokil Jaidka, Nanyang Technological University
+
+Niyati Chhaya , Big Data Experience Lab, Adobe Research
+
+Jiahui Lu, Nanyang Technological University
+
+Iknoor Singh, Panjab University
+
+Lyle Ungar, University of Pennsylvania
+
+Check out the Workshop and Shared Task website: <a>https://sites.google.com/view/affcon2020/home</a>
+
+
+
