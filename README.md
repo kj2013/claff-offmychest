@@ -10,7 +10,9 @@ There is a growing interest in understanding how humans initiate and hold conver
 
 **UPDATED SYSTEM RUNS SUBMISSION DEADLINE: December 13, 2019** 
 
+# LICENSE
 
+Our dataset is available under CC BY 4.0 license (https://creativecommons.org/licenses/by/4.0/)
 
 ## The Tasks
 
