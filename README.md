@@ -8,9 +8,11 @@ A part of the AffCon Workshop @ AAAI 2019 for Modeling Affect-in-Response
 
 There is a growing interest in understanding how humans initiate and hold conversations. The affective understanding of conversations focuses on the problem of how speakers use emotions to react to a situation and to each other. We introduce the OffMyChest conversation dataset, and invite submissions for the Computational Linguistics Affect Understanding (CL-Aff) Shared Task on modeling interactive affective responses. 
 
-**UPDATED SYSTEM RUNS SUBMISSION DEADLINE: December 13, 2019** 
+**UPDATED SYSTEM RUNS SUBMISSION DEADLINE: December 18, 2019** 
 
+# LICENSE
 
+Our dataset is available under CC BY 4.0 license (https://creativecommons.org/licenses/by/4.0/)
 
 ## The Tasks
 
