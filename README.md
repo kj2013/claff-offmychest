@@ -1,7 +1,7 @@
 **UPDATE: LABELED TRAINING AND TEST DATA IS UP! Please register for the task at <a>https://easychair.org/conferences/?conf=affcon2020</a>**
 
 
-# CL-Aff Shared Task: Get it #OffMyChest
+# CL-Aff Shared Task: Get it #OffMyChest (concluded)
 Corpus and annotations for the CL-Aff Shared Task - Get it #OffMyChest - from Nanyang Technological University Singapore
 
 A part of the AffCon Workshop @ AAAI 2019 for Modeling Affect-in-Response
