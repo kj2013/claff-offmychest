@@ -127,9 +127,21 @@ After the Shared Task, we also plan to further enrich this data, with more annot
 
 If you use the data and publish, please let us know and cite our CL-Aff overview paper:
 
-@inproceedings
 
-{TBA
+@inproceedings{jaidka2020claff,
+
+address = {New York, USA},
+
+author = { Jaidka, Kokil and Singh, Iknoor and Lu, Jiahui and Chhaya, Niyati and Ungar, Lyle},
+
+booktitle = {Proceedings of the AAAI-20 Workshop on Affective Content Analysis},
+
+publisher = {AAAI},
+
+title = {{A report of the CL-Aff OffMyChest Shared Task: Modeling Supportiveness and Disclosure}},
+
+year = {2020}
+
 }
 
 
